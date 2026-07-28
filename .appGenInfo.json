@@ -1,0 +1,28 @@
+{
+  "generationParameters": {
+    "generationDate": "Mon Jul 27 2026 09:45:01 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP Cloud)",
+    "metadataFilename": "",
+    "serviceUrl": "https://bb8534dd-13b7-4042-bba9-41728e5288ac.abap.us10.hana.ondemand.com/sap/opu/odata/sap/ZHSH_UI_CERT_ANALYTICS_V2",
+    "appName": "zhsh_fe_cert_alp_v2",
+    "appTitle": "Certification Analytics Dashboard",
+    "appDescription": "Analytical List Page for Certification Analytics",
+    "appNamespace": "zhsh.alp.cert",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.145.3",
+    "enableEslint": true,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.29.0",
+    "template": "Analytical List Page V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "ZHSH_C_CERT_ANALYTICS"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
